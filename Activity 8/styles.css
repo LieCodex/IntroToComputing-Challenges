@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    margin: 0 auto;
+    max-width: 600px;
+    padding: 20px;
+  }
+  
+  @media screen and (max-width: 600px) {
+    .container {
+      background-color: lightblue;
+    }
+  }
+  
